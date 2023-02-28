@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold; 
+     
+    
+
+}
+
+ section #informacion_personal  {
+     font-weight: 300px;
+
+ }
+
+
+section #informacion_personal ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
